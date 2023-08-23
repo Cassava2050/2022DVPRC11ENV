@@ -28,3 +28,14 @@ This repo contains the data analysis of 11 trials in Colombia. Each trial was co
 ### Year 2022
 ![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_2022102DVPRC_stom_2023-08-16_.png)
 ![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_2022105DVPRC_cere_2023-08-16_.png)
+### Year 2021
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202167DVPRC_polo_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202171DVPRC_repe_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202183DVPRC_momi_2023-08-16_.png)
+### Year 2020
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202051DMPRC_pivi_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202052DMPRC_momi_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202053DMPRC_cere_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202054CQPRC_pivi_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202055CQPRC_momi_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_202056CQPRC_cere_2023-08-16_.png)
