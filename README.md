@@ -21,3 +21,5 @@ This repo contains the data analysis of 11 trials in Colombia. Each trial was co
 > -   **202054CQPRC_pivi**: Conducted in June **2020** at the Pivijay location, with **15** cassava clones tested.
 > -   **202055CQPRC_momi**: Conducted in July **2020** at the Momil location. with **16** cassava clones tested.
 > -   **202056CQPRC_cere**: Conducted in July **2020** at the Cerete location. with **16** cassava clones tested.
+
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/map_DVPRC_.png)
