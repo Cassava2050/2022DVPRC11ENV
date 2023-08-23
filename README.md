@@ -23,3 +23,8 @@ This repo contains the data analysis of 11 trials in Colombia. Each trial was co
 > -   **202056CQPRC_cere**: Conducted in July **2020** at the Cerete location. with **16** cassava clones tested.
 
 ![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/map_DVPRC_.png)
+
+## Trial layout information
+### Year 2022
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_2022102DVPRC_stom_2023-08-16_.png)
+![](https://github.com/Cassava2050/2022DVPRC11ENV/blob/main/images/layout_2022105DVPRC_cere_2023-08-16_.png)
